@@ -1,3 +1,3 @@
 # random-scripts
 
-what are you doing here?
+an assortment of misc. scripts
